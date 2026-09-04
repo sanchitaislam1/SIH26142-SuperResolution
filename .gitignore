@@ -1,0 +1,3 @@
+results/*.tif
+__pycache__/
+*.pyc

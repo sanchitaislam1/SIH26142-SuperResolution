@@ -1,6 +1,5 @@
-streamlit
-torch
+gradio
 numpy
 pandas
-matplotlib
+torch
 rasterio

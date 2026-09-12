@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+checkpoints/*.pth
+data/uploads/*
+results/*
+.vscode/
